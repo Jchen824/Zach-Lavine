@@ -1,0 +1,109 @@
+body {
+    background-color: Black;
+}
+
+.button {
+    margin: 10px;
+    border: 2px solid red;
+    height: 30px;
+    color: red;
+    display: flex;
+    justify-content: space-around;
+    flex-grow: 1;
+    padding: 1px;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.zach {
+    display: flex;
+    justify-content: flex-start;
+}
+
+
+.acc {
+    border: 2px solid red;
+    padding: 7px;
+    margin: 4px;
+}
+
+.GOAT {
+    display: flex;
+    justify-content: flex-start;
+    border: 2px solid red;
+}
+
+.GOAT2 {
+    Border: 2px solid red;
+    padding: 01px;
+    margin: 1px;
+    flex-grow: 2;
+}
+
+h1 {
+    color: red;
+    font-family: 'Merriweather', serif;
+    display: flex;
+    border: 2px solid red;
+    padding: 1px;
+    margin: 10px;
+    height: 30px;
+}
+
+
+h2 {
+    color: red;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+h3 {
+    color: red;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.img {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.img1 {
+    width: 150px;
+    flex-grow: 1;
+}
+
+.img2 {
+    width: 200px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-around;
+}
+
+.img3 {
+    width: 200px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-around;
+}
+
+.img4 {
+    width: 200px;
+    border: 2px solid red;
+    display: flex;
+    justify-content: space-around;
+}
+
+p {
+    color: red;
+}
+
+ol {
+    color: red;
+}
+
+a {
+    color: red;
+}
